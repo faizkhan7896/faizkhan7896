@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alfaiz Khan!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android & IOS Application developer from India</h3>
   
 
 <a href="https://github.com/faizkhan7896" target="_blank">
