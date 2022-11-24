@@ -27,8 +27,8 @@ I am a developer who loves building scalable, performant apps. I am passionate a
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [CodeMode](https://play.google.com/store/apps/details?id=com.perfectice&hl=en_IN&gl=US)  
-  
+<!-- - 🔭 I’m currently working on [CodeMode](https://play.google.com/store/apps/details?id=com.perfectice&hl=en_IN&gl=US)  
+   -->
 
 - 🌱 I’m currently learning Node JS  
   
