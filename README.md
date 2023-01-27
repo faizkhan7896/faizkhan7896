@@ -36,7 +36,7 @@ I am a developer who loves building scalable, performant apps. I am passionate a
 - ❓ Ask me about anything related to React Native & JavaScript  
   
 
-- 👨‍💻 All of my projects are available at https://bit.ly/alfaiz_dev  
+- 👨‍💻 All of my projects are available at https://bit.ly/App-Dev_Portfolio  
   
 
 - 📫 How to reach me faizkhan786975@gmail.com  
