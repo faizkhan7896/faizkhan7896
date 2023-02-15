@@ -89,3 +89,14 @@ I am a developer who loves building scalable, performant apps. I am passionate a
 <a />
   
 <br />
+
+  <div align="center">
+    <a href="https://github.com/faizkhan7896">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=faizkhan7896&theme=radical&show_icons=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan7896&layout=compact&langs_count=7&theme=radical"/>
+  </div>
+    
+  <div align="center">
+      <img width="100%" src="https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.svg"/>
+  </div>
+    
