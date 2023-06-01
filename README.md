@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Alfaiz Khan!</h1>
 <h3 align="center">A passionate Android & IOS Application developer from India</h3>
   
-
+<!-- 
 <a href="https://github.com/faizkhan7896" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,7 +13,7 @@
 </a>
 <a href="https://www.instagram.com/customize_dsoftware/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 
 
 
@@ -22,6 +22,8 @@ I am a developer who loves building scalable, performant apps. I am passionate a
   
 
 <br/>  
+
+
 
 
 ## Rapidfire  
@@ -52,6 +54,14 @@ I am a developer who loves building scalable, performant apps. I am passionate a
 </td></tr>
 
 <br/>  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alfaiz_khan789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfaiz_khan789" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alfaiz-khan-94647b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfaiz-khan-94647b202" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/alfaiz-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alfaiz-khan" height="30" width="40" /></a>
+<a href="https://instagram.com/customize_dsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="customize_dsoftware" height="30" width="40" /></a>
+</p>
 
 
 ## Languages and Tools  
