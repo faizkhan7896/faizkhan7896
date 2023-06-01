@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alfaiz Khan!</h1>
-<h3 align="center">A passionate Android & IOS Application developer from India</h3>
+<h3 align="center">A passionate React-Native Developer from India</h3>
   
 <!-- 
 <a href="https://github.com/faizkhan7896" target="_blank">
@@ -18,11 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a developer who loves building scalable, performant apps. I am passionate about JavaScript, react-native, Android & IOS Application development, redux & Build app and UI components from prototypes Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Interested in Continuation of learning and Cooperation with excellent people.  
-  
-
-<br/>  
-
+Welcome to my GitHub profile! I am a passionate React-Native Developer with a focus on building scalable and performant apps. My expertise lies in JavaScript, React-Native, Android & iOS application development, and Redux. I love the process of building app and UI components from prototypes and working with native modules to create seamless integrations. I have a firm grasp of JavaScript, including ES6+, and take pride in writing well-documented and clean code.
 
 
 
@@ -48,12 +44,8 @@ I am a developer who loves building scalable, performant apps. I am passionate a
 
 
 </td><td valign="top" width="50%">
-
-
-
 </td></tr>
 
-<br/>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
