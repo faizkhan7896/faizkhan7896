@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I am a passionate React-Native Developer with a fo
 - ❓ Ask me about anything related to React Native & JavaScript  
   
 
-- 👨‍💻 All of my projects are available at https://bit.ly/App-Dev_Portfolio  
+- 👨‍💻 All of my projects are available at http://alfaizstudio.netlify.app/  
   
 
-- 📫 How to reach me faizkhan786975@gmail.com  
+- 📫 How to reach me alfaizkhan.work@gmail.com  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
