@@ -28,17 +28,16 @@ Welcome to my GitHub profile! I am a passionate React-Native Developer with a fo
 <!-- - 🔭 I’m currently working on [CodeMode](https://play.google.com/store/apps/details?id=com.perfectice&hl=en_IN&gl=US)  
    -->
 
-- 🌱 I’m currently learning Node JS  
+- 🤖 currently learning AI
   
 
 - ❓ Ask me about anything related to React Native & JavaScript  
-  
 
 - 👨‍💻 All of my projects are available at http://alfaizstudio.netlify.app/  
-  
+
+- 🚀 Building a Tech Company melexis.in
 
 - 📫 How to reach me alfaizkhan.work@gmail.com  
-  
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
