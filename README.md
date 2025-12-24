@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I am a passionate React-Native Developer with a fo
 
 - 👨‍💻 All of my projects are available at http://alfaizstudio.netlify.app/  
 
-- 🚀 Building a Tech Company melexis.in
+- 🚀 Building a Tech Company https://melexis.in
 
 - 📫 How to reach me alfaizkhan.work@gmail.com  
 
